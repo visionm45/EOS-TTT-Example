@@ -1,0 +1,14 @@
+.game {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  min-width: 425px;
+  box-sizing: border-box;
+}
+
+.game-info {
+  box-sizing: border-box;
+  margin-left: 10px;
+  width: 150px;
+  min-width: fit-content;
+}

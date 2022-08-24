@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "__config": "cpp",
+    "locale": "cpp",
+    "random": "cpp",
+    "__functional_03": "cpp",
+    "functional": "cpp",
+    "complex": "cpp",
+    "system_error": "cpp",
+    "typeinfo": "cpp",
+    "__locale": "cpp"
+  }
+}
